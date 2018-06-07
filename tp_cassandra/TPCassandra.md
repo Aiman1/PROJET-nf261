@@ -36,3 +36,5 @@ pas de pbm à réinsérer la clés, on écrase donc
 
 On peut parfaitement avoir des clées composites, avec différents niveaux:
 `CREATE TABLE toto (id1 int,id2 int,id3 int,id4 int, machin text, truc text, primarey key ((id1,id2),id3,id4));`
+
+
